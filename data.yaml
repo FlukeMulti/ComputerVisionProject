@@ -1,0 +1,7 @@
+path: ./C2A_Dataset/new_dataset3
+train: train/images
+val: val/images
+test: test/images  
+
+nc: 1              
+names: ['human'] 
