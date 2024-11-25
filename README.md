@@ -272,3 +272,6 @@ model.train(
 
 # Demo Video
 You can find a demo video of the project in the repo titled "[Demo.mp4](./Demo.mp4)"
+
+---
+P.S You can find the code for training a vision transformer in the file "[ViT.ipynb](./ViT.ipynb)". Due to hardware limitations, we were not able to run it; however, one could expect good results if ran.
