@@ -52,7 +52,7 @@ The data.yaml file is required for finetuning the YOLO model using the Ultralyti
 The dataset configuration file (`data.yaml`) should look like this:
 
 ```yaml
-ppath: ./C2A_Dataset/new_dataset3
+path: ./C2A_Dataset/new_dataset3
 train: train/images
 val: val/images
 test: test/images  
