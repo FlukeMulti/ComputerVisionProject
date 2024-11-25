@@ -205,7 +205,7 @@ metrics = model.val(
 print(metrics)
 ```
 
-### **YOLOv11** (Without estimation)
+### **YOLOv11** (Without pose estimation)
 
 #### Training 
 
@@ -271,4 +271,4 @@ model.train(
 ---
 
 # Demo Video
-You can find a demo video of the project in the repo titled "____.mp4"
+You can find a demo video of the project in the repo titled "[Demo.mp4](./Demo.mp4)"
